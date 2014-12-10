@@ -1,0 +1,41 @@
+#my_patient_today_tbl table,
+#my_patient_today_tbl table thead,
+#my_patient_today_tbl table thead tr,
+#my_patient_today_tbl .fixed-table-header,
+#my_patient_today_tbl .fixed-table-container,
+#my_patient_request_tbl .fixed-table-container,
+#my_patient_today_tbl th{ border-radius:0px;}
+#my_patient_today_tbl .fixed-table-container,
+#my_patient_request_tbl .fixed-table-container
+{ border-left:0px; border-right:0px;}
+#my_patient_today_tbl th,
+#my_patient_request_tbl th
+{ border-bottom:0px;}
+
+#my_patient_today_tbl button[name="toggle"],
+#my_patient_today_tbl button[name="refresh"],
+#my_patient_request_tbl button[name="toggle"],
+#my_patient_request_tbl button[name="refresh"]
+{padding-top:9px; padding-bottom:9px;}
+form#add_patient{ padding-top:25px;}
+
+
+.pull-right.pagination{ margin-top:0px; margin-bottom:0px;}
+#patient_personal_info_form{ padding:15px;}
+
+.list_result_as_form{
+	height: 34px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+}
+#my_patient_request_tbl .media-middle{ vertical-align: middle!important;}
+
+#medical-history table,
+#medical-history .fixed-table-container,
+#medical-history .fixed-table-container table,
+#medical-history table th:last-child,
+#medical-history table td:last-child
+{border-left:0px; border-right:0px; border-radius:0px;}
+
+#medical-history .fixed-table-container table{ border-top:0px; border-radius:0px;}
+#search-result-tbl th{ border-bottom:0px;}
