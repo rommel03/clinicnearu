@@ -1,5 +1,8 @@
 <?php
-
+/*
+* Author: Rommel Gutierrez
+* Date:12-11-2014 
+*/
 namespace Doctor;
 
 use View;
